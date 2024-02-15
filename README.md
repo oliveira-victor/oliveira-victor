@@ -63,7 +63,7 @@ You can learn more in [my portfolio](https://victoroliveira.vercel.app/)
 
 ###
 
-## :speech_balloon: Wanna have a chat? You can talk to me in:
+## :speech_balloon: Wanna share some ideas? Talk to me in:
 * Portuguese (native)
 * English (fluent)
 * French (intermediate)
