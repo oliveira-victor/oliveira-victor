@@ -65,4 +65,6 @@ You can learn more in [my portfolio](https://victoroliveira.vercel.app/)
 
 ###
 
-<img src="https://victoroliveira.vercel.app/assets/vfo_dark-33cc84e2.svg" style="height: 36px;" />
+<div align="end">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjBpam9qbG1qcXp5eWxmYno2NTFxcHRmeXBsNjlpMWk0NTlzN3NxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" style="height: 160px" />
+</div>
