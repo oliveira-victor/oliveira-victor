@@ -21,9 +21,9 @@
 
 ###
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-fo/)](https://www.linkedin.com/in/victor-fo/)
-[![Personal Badge](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=Me&logoColor=white&link=https://victoroliveira.vercel.app/)](https://victoroliveira.vercel.app/)
-[![Gmail Badge](https://img.shields.io/badge/-dev.victor.fo@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.victor.fo@gmail.com)](mailto:dev.victor.fo@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-22547a?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-fo/)](https://www.linkedin.com/in/victor-fo/)
+[![Personal Badge](https://img.shields.io/badge/-Website-22547a?style=flat-square&logo=Me&logoColor=white&link=https://victoroliveira.vercel.app/)](https://victoroliveira.vercel.app/)
+[![Gmail Badge](https://img.shields.io/badge/-dev.victor.fo@gmail.com-22547a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.victor.fo@gmail.com)](mailto:dev.victor.fo@gmail.com)
 
 <!-- [Portfolio](https://victoroliveira.vercel.app/) || [LinkedIn](https://www.linkedin.com/in/victor-fo/) -->
 
