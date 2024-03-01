@@ -58,9 +58,9 @@
 
 ## :open_file_folder: Some nice projects I've made:
 * Digital Dice (games e-commerce): https://github.com/oliveira-victor/digital_dice
+* Avatar Maker (interactive web app): https://github.com/oliveira-victor/avatar_maker
 * VFO Studio (art & design portfolio): https://github.com/oliveira-victor/VFO_Studio
 * VFO Stories (short stories audio book app): https://github.com/oliveira-victor/VFO_stories
-* Avatar Maker (interactive web app): https://github.com/oliveira-victor/avatar_maker
 * EBAC eFood (restaurants e-commerce): https://github.com/oliveira-victor/ebac_efood
 
 You can learn more in [my portfolio](https://victoroliveira.vercel.app/)
