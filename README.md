@@ -51,6 +51,7 @@
 <div style="display: flex; background-color: red;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="height: 36px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" style="height: 36px;" />
+  <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1901x2048-mk1e13df.png" style="height: 36px;" />
 </div>
 
 
