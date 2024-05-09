@@ -78,5 +78,6 @@ You can learn more in [my portfolio](https://victoroliveira.vercel.app/)
 ###
 
 <div align="end">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRva29ndm5qenA1cnpncmdxeGZnNHM1YzByNnBtcjk1bjRheGJieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7H3O5LntQirZXFIEsq/giphy.gif" style="height: 160px" />
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjBpam9qbG1qcXp5eWxmYno2NTFxcHRmeXBsNjlpMWk0NTlzN3NxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" style="height: 160px" />
 </div>
