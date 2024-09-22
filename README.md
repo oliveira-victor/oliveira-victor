@@ -57,11 +57,11 @@
 
 ###
 
-## :open_file_folder: Some nice projects I've made:
+## :open_file_folder: Some of my main projects:
 * Digital Dice (games e-commerce): https://github.com/oliveira-victor/digital_dice
 * Avatar Maker (interactive web app): https://github.com/oliveira-victor/avatar_maker
 * My Good Chef (restaurants e-commerce): https://github.com/oliveira-victor/my_good_chef
-* VFO Studio (art & design portfolio): https://github.com/oliveira-victor/VFO_Studio
+* Weather App (with APIs fetching): https://github.com/oliveira-victor/EBAC-WeatherApp
 * VFO Stories (short stories audio book app): https://github.com/oliveira-victor/VFO_stories
 
 
