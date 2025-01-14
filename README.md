@@ -38,6 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="height: 36px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="height: 36px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="height: 36px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="height: 36px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" style="height: 36px;" />
   <img src="https://github.com/oliveira-victor/oliveira-victor/assets/116602113/cdf89bdc-c532-4856-8311-561b115776b1" style="height: 36px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" style="height: 36px;" />
@@ -49,9 +50,9 @@
 
 ### What I'm currently learning:
 <div style="display: flex; background-color: red;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="height: 36px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" style="height: 36px;" />
   <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1901x2048-mk1e13df.png" style="height: 36px;" />
+  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" style="height: 36px;" />
 </div>
 
 
