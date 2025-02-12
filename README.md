@@ -1,7 +1,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello! I'm Victor</h1></summary>
-    <p>Software engineer | Front-End Developer</p>
+    <p>Front-End Developer</p>
 </div>
 
 ###
