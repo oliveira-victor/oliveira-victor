@@ -44,6 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" style="height: 36px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="height: 36px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" style="height: 36px;" />
+  <img src="https://meta-l.cdn.bubble.io/f1685632623945x484360545462020800/supabase-logo-icon.png" style="height: 36px;" />
 </div>
 
 ###
@@ -52,13 +53,13 @@
 <div style="display: flex; background-color: red;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" style="height: 36px;" />
   <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1901x2048-mk1e13df.png" style="height: 36px;" />
-  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" style="height: 36px;" />
 </div>
 
 
 ###
 
 ## :open_file_folder: Some of my main projects:
+* FestaLink (SaaS): https://festalink.com/
 * VFO Studio: https://vfostudio.vercel.app/
 * Avatar Maker (interactive web app): https://github.com/oliveira-victor/avatar_maker
 * My Good Chef (restaurants e-commerce): https://github.com/oliveira-victor/my_good_chef
