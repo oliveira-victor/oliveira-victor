@@ -61,9 +61,9 @@
 ## :open_file_folder: Some of my main projects:
 * FestaLink (SaaS): https://festalink.com/
 * VFO Studio: https://vfostudio.vercel.app/
+* Mandado (game): http://mandadojogo.vercel.app/
 * Avatar Maker (interactive web app): https://github.com/oliveira-victor/avatar_maker
 * My Good Chef (restaurants e-commerce): https://github.com/oliveira-victor/my_good_chef
-* Digital Dice (games e-commerce): https://github.com/oliveira-victor/digital_dice
 * Weather App (with APIs fetching): https://github.com/oliveira-victor/EBAC-WeatherApp
 
 
